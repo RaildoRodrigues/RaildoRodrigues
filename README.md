@@ -9,11 +9,11 @@
 
 ### Tecnologies
 <div>
-   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img height = "48px" src="https://img.shields.io/badge/GDSCRIPT-%23141414.svg?style=for-the-badge&logo=godot-engine&logoColor=55ae69" />
+   <img height = "48px" src="https://img.shields.io/badge/javascript-%23141414.svg?style=for-the-badge&logo=javascript&logoColor=55ae69" />
+   <img height = "48px" src="https://img.shields.io/badge/python-%23141414?style=for-the-badge&logo=python&logoColor=55ae69" /><br>
+   <img height = "48px" src="https://img.shields.io/badge/html5-%23141414.svg?style=for-the-badge&logo=html5&logoColor=55ae69" />
+   <img height = "48px" src="https://img.shields.io/badge/css3-%23141414.svg?style=for-the-badge&logo=css3&logoColor=55ae69" />
+   <img height = "48px" src="https://img.shields.io/badge/c%23-%23141414.svg?style=for-the-badge&logo=c-sharp&logoColor=55ae69" />
 
 </div>
