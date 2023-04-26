@@ -1,6 +1,6 @@
 ## Hi, I am Raildo Rodrigues
 - 🦉  Lowpoly and Pixel Artist
-- 🌱  I’m currently learning Python and GDScript
+- 🌱  I’m currently learning Python, JAVA and GDScript
 - ☁   My dream is develop games and apps that change lives
 
 <a href="https://github.com/raildorodrigues">
